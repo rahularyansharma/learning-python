@@ -1,0 +1,25 @@
+join merge pandas
+apply vs  map 
+pandas describe 
+info vs describe
+why self in python 
+matplotlib vs seaborn 
+numpy array vs python list 
+reverse print python 
+recursive print 
+remove white spaces from string python 
+
+Regression : 
+Modeling in regression 
+Assumptions in linear regression 
+Classification 
+
+
+
+
+
+
+
+
+
+
